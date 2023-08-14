@@ -1,16 +1,14 @@
+
 # doviz_takip_currency_tracking_app
 
-A new Flutter project.
+For the first time, in a project where I used API services, I'm fetching the equivalent value of the selected currency in other units to display on the screen. 
+It's a simple design live currency tracking system built using Flutter. 
 
-## Getting Started
+It is one of my "Do it-Learn it" and "Practice makes perfect" themed Flutter projects. 
 
-This project is a starting point for a Flutter application.
+Here are the screenshots of my app : 
 
-A few resources to get you started if this is your first Flutter project:
+![ilk_ekran](https://github.com/emrehalac/doviz_takip_currency_tracking_app/assets/76155678/c90e8452-479c-444b-8e86-32d598470e6d)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![listeleme_!](https://github.com/emrehalac/doviz_takip_currency_tracking_app/assets/76155678/a612a93c-3a49-4ee0-8226-9a1cf33581b5)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
